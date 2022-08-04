@@ -1,7 +1,0 @@
-name: Docker 
-type: "test"
-job: "push"&"pull" 
-on: [main]
-
-   -run-on: "Docker-2.8.0"
-      
