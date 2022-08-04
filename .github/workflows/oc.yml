@@ -3,12 +3,8 @@ steps:
     uses: redhat-actions/oc-login@v1
     env:
       # These can be stored in secrets, if desired.
-      OPENSHIFT_USER: my-username
-      OPENSHIFT_NAMESPACE: my-namespace
-
-    with:
-      # URL to your OpenShift cluster.
-      # Refer to Step 2.
+      OPENSHIFT_USER: kamarules
+      OPENSHIFT_NAMESPACE: false
       openshift_server_url: ${{ secrets.OPENSHIFT_SERVER }}
 
       # Authentication Token. Can use username and password instead.
