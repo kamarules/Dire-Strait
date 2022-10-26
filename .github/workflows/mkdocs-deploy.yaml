@@ -1,9 +1,9 @@
 name: Deploy Aqua
 
 on: 
-  workflow_dispatch: false
-    inputs:
-      version:
+  workflow_dispatch:
+    inputs: true
+      version: "v"
         description: Version to be deployed
         required: true
 
