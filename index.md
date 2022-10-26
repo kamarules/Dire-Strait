@@ -1,5 +1,4 @@
-<!DOCTYPE html> 
-<class iframe>
+
 MIT License
 Copyright (c) 2022
 <html>
