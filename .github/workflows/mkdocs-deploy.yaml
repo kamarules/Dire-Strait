@@ -3,7 +3,7 @@ name: Deploy Aqua
 on: 
   workflow_dispatch:
     inputs: true
-      version: latest
+      version: ""
         description: Version to be deployed
         required: true
 
