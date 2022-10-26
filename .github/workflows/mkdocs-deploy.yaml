@@ -1,7 +1,7 @@
 name: Deploy Aqua
 
 on:
-deploy:
+branch: [ "main" ]
   workflow_dispatch:
     inputs:
       version:
