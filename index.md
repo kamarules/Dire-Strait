@@ -1,3 +1,6 @@
+<!DOCTYPE html> 
+<html content type/css>
+<body>
 MIT License
 
 Copyright (c) 2022 kamarules
