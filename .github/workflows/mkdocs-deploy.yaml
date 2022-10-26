@@ -1,6 +1,6 @@
 name: Deploy Aqua
 
-on: [ "main" ]
+on: "."
   workflow_dispatch:
     inputs:
       version:
