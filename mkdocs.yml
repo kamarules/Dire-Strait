@@ -1,4 +1,3 @@
----
 site_name: Kube-bench
 site_url: https://aquasecurity.github.io/kube-bench/
 site_description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
