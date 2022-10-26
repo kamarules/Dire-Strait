@@ -1,7 +1,7 @@
 name: Deploy Aqua
 
-on: "."
-  workflow_dispatch:
+on: 
+  workflow_dispatch: false
     inputs:
       version:
         description: Version to be deployed
