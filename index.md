@@ -1,11 +1,10 @@
 <!DOCTYPE html> 
-<html content type/css>
-<body>
+<class iframe>
 MIT License
-
-Copyright (c) 2022 kamarules
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Copyright (c) 2022
+<html>
+<body>
+<br>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -21,4 +20,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE</br><iframe src="https://onedrive.live.com/embed?cid=AB7F1FA265E315DF&resid=AB7F1FA265E315DF%21103&authkey=ADdQjQzkrTVp0RE" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+
+</body>
+</html>
