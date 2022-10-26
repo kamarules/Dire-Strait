@@ -1,6 +1,7 @@
 name: Deploy Aqua
 
 on:
+deploy:
   workflow_dispatch:
     inputs:
       version:
@@ -28,7 +29,7 @@ jobs:
           # Note: It is not the same as ${{ secrets.GITHUB_TOKEN }} !
           GH_TOKEN: ${{ secrets.MKDOCS_AQUA_BOT }}
       - run: |
-          git config user.name "kamarules"
+          git config user.name "bot"
           git config user.email "aqua-bot@users.noreply.github.com"
       - run: |
           mike deploy --push --update-aliases ${{ github.event.inputs.version }} latest
