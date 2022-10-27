@@ -1,11 +1,6 @@
-
-
-
-<html>
-<body>
 MIT License
 Copyright (c) 2022
-<br>Permission is hereby granted, free of charge, to any person obtaining a copy
+Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -21,7 +16,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE</br>
-<iframe src="https://onedrive.live.com/embed?cid=AB7F1FA265E315DF&resid=AB7F1FA265E315DF%21103&authkey=ADdQjQzkrTVp0RE" width="165" height="128" frameborder="0" scrolling="no"></iframe>
-</body>
-</html>
+SOFTWARE
+<html><body>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6Pz06FAaeym0JSqVqIkN56?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></body></html>
