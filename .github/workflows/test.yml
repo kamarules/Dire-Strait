@@ -1,11 +1,11 @@
 name: "Test"
-on:
-push: 
-branch: "main"
-permission:
-  read: true
-  write: true
+on: "push"
+run-name: test
+env: ""
+permissions:
+  packages: pages
+  pages: true
    content:true
 
 jobs:
-    run-on: ubuntu-latest
+default;
