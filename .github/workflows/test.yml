@@ -1,0 +1,4 @@
+name: "Test"
+job:
+push-on: "main"
+ -run on: ubuntu-latest
