@@ -1,6 +1,11 @@
 name: "Test"
-job:
-build on: "main"
+on:
+push: 
+branch: "main"
 permission:
-read: true
-   - run on: ubuntu-latest
+  read: true
+  write: true
+   content:true
+
+jobs:
+    run-on: ubuntu-latest
