@@ -1,4 +1,6 @@
 name: "Test"
 job:
-push-on: "main"
- -run on: ubuntu-latest
+build on: "main"
+permission:
+read: true
+   - run on: ubuntu-latest
